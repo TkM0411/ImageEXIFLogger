@@ -1,0 +1,15 @@
+E:\My Programs\PhotoExifViewer\PhotoExifViewer\obj\x86\Debug\PhotoExifViewer.Properties.Resources.resources
+E:\My Programs\PhotoExifViewer\PhotoExifViewer\bin\Debug\PhotoExifViewer.pdb
+E:\My Programs\PhotoExifViewer\PhotoExifViewer\obj\x86\Debug\PhotoExifViewer.pdb
+E:\My Programs\PhotoExifViewer\PhotoExifViewer\bin\Debug\PhotoExifViewer.dll
+E:\My Programs\PhotoExifViewer\PhotoExifViewer\obj\x86\Debug\PhotoExifViewer.dll
+E:\My Programs\Compiled Libraries\PhotoExifViewer.dll
+E:\My Programs\Compiled Libraries\PhotoExifViewer.pdb
+E:\My Programs\PhotoExifViewer\PhotoExifViewer\obj\x86\Debug\PhotoExifViewer.csproj.GenerateResource.Cache
+D:\My Programs\Archives\Compiled Libraries\PhotoExifViewer.dll
+D:\My Programs\Archives\Compiled Libraries\PhotoExifViewer.pdb
+D:\My Programs\Archives\PhotoExifViewer\PhotoExifViewer\obj\x86\Debug\PhotoExifViewer.csprojResolveAssemblyReference.cache
+D:\My Programs\Archives\PhotoExifViewer\PhotoExifViewer\obj\x86\Debug\PhotoExifViewer.Properties.Resources.resources
+D:\My Programs\Archives\PhotoExifViewer\PhotoExifViewer\obj\x86\Debug\PhotoExifViewer.csproj.GenerateResource.Cache
+D:\My Programs\Archives\PhotoExifViewer\PhotoExifViewer\obj\x86\Debug\PhotoExifViewer.dll
+D:\My Programs\Archives\PhotoExifViewer\PhotoExifViewer\obj\x86\Debug\PhotoExifViewer.pdb

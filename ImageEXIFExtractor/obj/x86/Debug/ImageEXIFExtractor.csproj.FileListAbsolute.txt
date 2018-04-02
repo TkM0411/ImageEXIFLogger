@@ -1,0 +1,21 @@
+D:\My Programs\Archives\Compiled Libraries\ImageEXIFExtractor.dll
+D:\My Programs\Archives\Compiled Libraries\ImageEXIFExtractor.pdb
+D:\My Programs\Archives\PhotoExifViewer\PhotoExifViewer\obj\x86\Debug\ImageEXIFExtractor.Properties.Resources.resources
+D:\My Programs\Archives\PhotoExifViewer\PhotoExifViewer\obj\x86\Debug\ImageEXIFExtractor.csproj.GenerateResource.Cache
+D:\My Programs\Archives\PhotoExifViewer\PhotoExifViewer\obj\x86\Debug\ImageEXIFExtractor.dll
+D:\My Programs\Archives\PhotoExifViewer\PhotoExifViewer\obj\x86\Debug\ImageEXIFExtractor.pdb
+D:\My Programs\Compiled Libraries\ImageEXIFExtractor.dll
+D:\My Programs\Compiled Libraries\ImageEXIFExtractor.pdb
+D:\My Programs\Development\ImageEXIFExtractor\obj\x86\Debug\ImageEXIFExtractor.Properties.Resources.resources
+D:\My Programs\Development\ImageEXIFExtractor\obj\x86\Debug\ImageEXIFExtractor.csproj.GenerateResource.Cache
+D:\My Programs\Development\ImageEXIFExtractor\obj\x86\Debug\ImageEXIFExtractor.dll
+D:\My Programs\Development\ImageEXIFExtractor\obj\x86\Debug\ImageEXIFExtractor.pdb
+D:\My Programs\Development\Build\ImageEXIFExtractor.dll
+D:\My Programs\Development\Build\ImageEXIFExtractor.pdb
+D:\My Programs\Development\ImageEXIFLogger\Build\ImageEXIFExtractor.dll
+D:\My Programs\Development\ImageEXIFLogger\Build\ImageEXIFExtractor.pdb
+D:\My Programs\Development\ImageEXIFLogger\ImageEXIFExtractor\obj\x86\Debug\ImageEXIFExtractor.csprojResolveAssemblyReference.cache
+D:\My Programs\Development\ImageEXIFLogger\ImageEXIFExtractor\obj\x86\Debug\ImageEXIFExtractor.Properties.Resources.resources
+D:\My Programs\Development\ImageEXIFLogger\ImageEXIFExtractor\obj\x86\Debug\ImageEXIFExtractor.csproj.GenerateResource.Cache
+D:\My Programs\Development\ImageEXIFLogger\ImageEXIFExtractor\obj\x86\Debug\ImageEXIFExtractor.dll
+D:\My Programs\Development\ImageEXIFLogger\ImageEXIFExtractor\obj\x86\Debug\ImageEXIFExtractor.pdb

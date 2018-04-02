@@ -1,0 +1,8 @@
+D:\My Programs\Development\Build\ImageEXIFExtractor.dll
+D:\My Programs\Development\Build\ImageEXIFExtractor.pdb
+D:\My Programs\Development\ImageEXIFExtractor\obj\x86\Release\ImageEXIFExtractor.Properties.Resources.resources
+D:\My Programs\Development\ImageEXIFExtractor\obj\x86\Release\ImageEXIFExtractor.csproj.GenerateResource.Cache
+D:\My Programs\Development\ImageEXIFExtractor\obj\x86\Release\ImageEXIFExtractor.dll
+D:\My Programs\Development\ImageEXIFExtractor\obj\x86\Release\ImageEXIFExtractor.pdb
+D:\GitHub\ImageEXIFLogger\Build\ImageEXIFExtractor.dll
+D:\GitHub\ImageEXIFLogger\Build\ImageEXIFExtractor.pdb

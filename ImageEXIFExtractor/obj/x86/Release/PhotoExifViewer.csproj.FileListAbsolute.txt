@@ -1,0 +1,6 @@
+E:\My Programs\PhotoExifViewer\PhotoExifViewer\bin\Release\PhotoExifViewer.dll
+E:\My Programs\PhotoExifViewer\PhotoExifViewer\bin\Release\PhotoExifViewer.pdb
+E:\My Programs\PhotoExifViewer\PhotoExifViewer\obj\x86\Release\PhotoExifViewer.Properties.Resources.resources
+E:\My Programs\PhotoExifViewer\PhotoExifViewer\obj\x86\Release\PhotoExifViewer.csproj.GenerateResource.Cache
+E:\My Programs\PhotoExifViewer\PhotoExifViewer\obj\x86\Release\PhotoExifViewer.dll
+E:\My Programs\PhotoExifViewer\PhotoExifViewer\obj\x86\Release\PhotoExifViewer.pdb

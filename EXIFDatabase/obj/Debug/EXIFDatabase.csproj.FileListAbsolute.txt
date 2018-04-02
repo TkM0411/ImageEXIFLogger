@@ -1,0 +1,7 @@
+D:\My Programs\Development\ImageEXIFLogger\Build\ImageEXIFMaster.mdf
+D:\My Programs\Development\ImageEXIFLogger\Build\ImageEXIFMaster_log.ldf
+D:\My Programs\Development\ImageEXIFLogger\Build\EXIFDatabase.dll
+D:\My Programs\Development\ImageEXIFLogger\Build\EXIFDatabase.pdb
+D:\My Programs\Development\ImageEXIFLogger\EXIFDatabase\obj\Debug\EXIFDatabase.dll
+D:\My Programs\Development\ImageEXIFLogger\EXIFDatabase\obj\Debug\EXIFDatabase.pdb
+D:\My Programs\Development\ImageEXIFLogger\EXIFDatabase\obj\Debug\EXIFDatabase.csprojResolveAssemblyReference.cache

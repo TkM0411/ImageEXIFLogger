@@ -1,0 +1,40 @@
+﻿CREATE TABLE FolderSettings
+(
+	FolderID BIGINT PRIMARY KEY,
+	FolderPath NVARCHAR(512) NOT NULL,
+	IsWatched BIT DEFAULT (1),
+	ParentFolderID BIGINT NULL FOREIGN KEY REFERENCES FolderSettings(FolderID)
+)
+
+CREATE TABLE CameraInformation
+(
+	CameraID INT IDENTITY(1,1) PRIMARY KEY,
+	CameraMake NVARCHAR(50) NOT NULL,
+	CameraModel NVARCHAR(50) NOT NULL
+)
+
+CREATE TABLE ImageEXIFInformation
+(
+	ImageID BIGINT PRIMARY KEY,
+	Folder BIGINT FOREIGN KEY REFERENCES FolderSettings(FolderID),
+	Camera INT FOREIGN KEY REFERENCES CameraInformation(CameraID),
+	Aperture NVARCHAR(6) NULL,
+	ShutterSpeed NVARCHAR(10) NULL,
+	ISO SMALLINT NULL,
+	FocalLength NUMERIC(4, 1) NULL,
+	Orientation TINYINT NULL,
+	MeteringMode TINYINT NULL,
+	ExposureMode TINYINT NULL,
+	ExposureBias TINYINT NULL,
+	PixelXDimension SMALLINT NULL,
+	PixelYDimension SMALLINT NULL,
+	CreatedDateTime DATETIME NULL,
+	ModifiedDateTime DATETIME NULL
+)
+
+CREATE TABLE ConfigItems
+(
+	ConfigID INT IDENTITY(1,1) PRIMARY KEY,
+	ConfigItemKey NVARCHAR(20) UNIQUE NOT NULL,
+	ConfigItemValue NVARCHAR(100) NULL
+)

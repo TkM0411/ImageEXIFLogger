@@ -1,0 +1,7 @@
+D:\My Programs\Development\ImageEXIFLogger\Build\ImmediateTest.exe.config
+D:\My Programs\Development\ImageEXIFLogger\Build\app.config
+D:\My Programs\Development\ImageEXIFLogger\Build\ImmediateTest.exe
+D:\My Programs\Development\ImageEXIFLogger\Build\ImmediateTest.pdb
+D:\My Programs\Development\ImageEXIFLogger\ImmediateTest\obj\Debug\ImmediateTest.csprojResolveAssemblyReference.cache
+D:\My Programs\Development\ImageEXIFLogger\ImmediateTest\obj\Debug\ImmediateTest.exe
+D:\My Programs\Development\ImageEXIFLogger\ImmediateTest\obj\Debug\ImmediateTest.pdb
